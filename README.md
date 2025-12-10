@@ -1,6 +1,6 @@
 # 🎮 Pac-Man Mini AI
 
-![Pac-Man Demo](<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/1898b90e-5dc6-44c1-a9e5-7fc73276b2c0" />
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/1898b90e-5dc6-44c1-a9e5-7fc73276b2c0" />
 
 )
 
