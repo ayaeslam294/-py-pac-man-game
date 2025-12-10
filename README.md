@@ -1,0 +1,87 @@
+# 🎮 Pac-Man Mini AI
+
+![Pac-Man Demo](282f9db8-8eb1-4c0d-a4bc-9458d8695a1f.png)
+
+A simplified **Pac-Man game** developed in Python using **Pygame**, featuring **two ghost AI algorithms**: **BFS** and **Greedy**. This project demonstrates how different pathfinding algorithms behave in real-time.
+
+---
+
+## 🕹️ Game Overview
+
+* **Player (Pac-Man) 🟡:** Moves with arrow keys. Collect dots to score points.
+* **Ghosts:**
+
+  * **Ghost 1 🔴 (BFS):** guarantees shortest path.
+  * **Ghost 2 🟢 (Greedy):** moves towards Pac-Man using Manhattan distance.
+* **Maze:** 7×7 grid with walls and dots.
+
+---
+
+## 🎯 Features
+
+* Real-time ghost path visualization.
+* Score tracking.
+* Efficiency metrics for BFS and Greedy.
+* Win/Lose state with stats display.
+
+---
+
+## ⚡ Demo / Video
+
+You can add a demo **GIF** or **Video** here:
+
+```markdown
+![Demo](./<img width="220" height="293" alt="image" src="https://github.com/user-attachments/assets/c73ce734-7685-45ad-ada1-a604a3265e4f" />
+)
+```
+
+## 🛠️ How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/pacman-mini-ai.git
+```
+
+2. Install dependencies:
+
+```bash
+pip install pygame
+```
+
+3. Make sure the images (`pacman.png`, `ghost1.png`, `ghost2.png`) are in the project folder.
+
+4. Run the game:
+
+```bash
+python pacman.py
+```
+
+---
+
+## 📊 AI Analysis
+
+| Algorithm | Steps | Distance           | Efficiency |
+| --------- | ----- | ------------------ | ---------- |
+| BFS 🔴    | High  | Optimal            | Accurate   |
+| Greedy 🟢 | Low   | Not always optimal | Fast       |
+
+* **BFS 🔴**: Accurate, finds the shortest path.
+* **Greedy 🟢**: Fast, may take longer paths
+
+---
+
+## 🎨 Colors Used in Game
+
+* **Player:** 🟡 Yellow
+* **Ghost BFS Path:** 🔴 Red
+* **Ghost Greedy Path:** 🟢 Green
+* **Walls:** 🔵 Blue
+* **Dots:** ⚪ White
+
+
+
+## 🔗 Links
+
+* **Python**: [https://www.python.org/](https://www.python.org/)
+* **Pygame**: [https://www.pygame.org/news](https://www.pygame.org/news)
