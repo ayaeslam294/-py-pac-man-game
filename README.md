@@ -26,7 +26,6 @@ A simplified **Pac-Man game** developed in Python using **Pygame**, featuring **
 
 ---
 
-## ⚡ Demo 
 <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/8821f75a-109d-480b-992d-a08543031f79" />
 
 ```
