@@ -1,8 +1,5 @@
 # 🎮 Pac-Man Mini AI
 
-<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/1898b90e-5dc6-44c1-a9e5-7fc73276b2c0" />
-
-)
 
 A simplified **Pac-Man game** developed in Python using **Pygame**, featuring **two ghost AI algorithms**: **BFS** and **Greedy**. This project demonstrates how different pathfinding algorithms behave in real-time.
 
@@ -28,12 +25,9 @@ A simplified **Pac-Man game** developed in Python using **Pygame**, featuring **
 
 ---
 
-## ⚡ Demo / Video
+## ⚡ Demo 
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/8821f75a-109d-480b-992d-a08543031f79" />
 
-
-```markdown
-![Demo](./<img width="220" height="293" alt="image" src="https://github.com/user-attachments/assets/c73ce734-7685-45ad-ada1-a604a3265e4f" />
-)
 ```
 
 ## 🛠️ How to Run
